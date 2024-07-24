@@ -1,5 +1,5 @@
 {
-  "name": "github-cli",
+  "name": "@aruzaev/text=github",
   "version": "1.0.0",
   "main": "dist/githubcli.js",
   "type": "module",
@@ -7,6 +7,14 @@
     "start": "node dist/githubcli.js",
     "build": "tsc"
   },
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "author": "Your full name",
+  "license": "ISC",
+  "repository": "https://github.com/aruzaev/text-github",
+  "homepage": "https://github.com/aruzaev/text-github#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
