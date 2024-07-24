@@ -1,5 +1,5 @@
 {
-  "name": "@aruzaev/text=github",
+  "name": "@aruzaev/text-github",
   "version": "1.0.0",
   "main": "dist/githubcli.js",
   "type": "module",
