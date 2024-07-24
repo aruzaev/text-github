@@ -23,6 +23,9 @@ Add a New System Variable:
 
 ### macOS/Linux
 
+Do this to set environment variables"
+https://phoenixnap.com/kb/set-environment-variable-mac
+
 1. Open Terminal.
 2. Edit your shell configuration file (e.g., .bashrc, .zshrc, or .bash_profile):
 
